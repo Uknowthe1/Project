@@ -2,7 +2,7 @@ import "./globals.css";
 import { ConsoleSilencer } from "./console-silencer";
 
 export const metadata = {
-  title: "BRID Study",
+  title: "FOCUSMATE",
   description: "고1 발표용 BRID 학습 보조 앱",
 };
 
