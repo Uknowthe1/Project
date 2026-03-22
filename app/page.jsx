@@ -738,7 +738,7 @@ export default function Page() {
     <main className="shell">
       <section className="hero">
         <span className="tag">교내 과학탐구발명대회 시제품</span>
-        <h1>BRID Study</h1>
+        <h1>FOCUSMATE</h1>
         <p>
           BRID 멘탈루틴 명상 중 뇌파 상태(좋음/보통/나쁨 시간)에서 좋음 비율을 계산해 공부 시간을 추천하고,
           공부하는 동안 자리 이탈 같은 행동 지표를 간단히 관찰하는 과학탐구형 웹앱입니다.
