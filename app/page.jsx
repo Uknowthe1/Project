@@ -737,7 +737,7 @@ export default function Page() {
   return (
     <main className="shell">
       <section className="hero">
-        <span className="tag">교내 과학탐구발명대회 시제품</span>
+        <span className="tag">최적의 집중시간을 알려주마</span>
         <h1>FOCUSMATE</h1>
         <p>
           BRID 멘탈루틴 명상 중 뇌파 상태(좋음/보통/나쁨 시간)에서 좋음 비율을 계산해 공부 시간을 추천하고,
