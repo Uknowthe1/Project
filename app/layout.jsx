@@ -3,7 +3,7 @@ import { ConsoleSilencer } from "./console-silencer";
 
 export const metadata = {
   title: "FOCUSMATE",
-  description: "고1 발표용 BRID 학습 보조 앱",
+  description: "최적의 집증시간을 알려주마",
 };
 
 export const viewport = {
